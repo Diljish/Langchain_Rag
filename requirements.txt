@@ -18,3 +18,7 @@ huggingface_hub
 pymongo
 rank_bm25
 python-docx
+wikipedia
+langgraph
+chromadb
+youtube-search
